@@ -1,7 +1,3 @@
-![Profile
-Header](https://github.com/mr-amirasgari/mr-amirasgari/blob/main/photo20270003337.jpg?raw=true)
-
-
 # 👋 Hi, I'm Amir Mohammad Asgari
 
 I'm a backend web developer and programmer.  
