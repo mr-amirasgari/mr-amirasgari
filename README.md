@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Amir Mohammad Asgari
 
-<!--
-**mr-amirasgari/mr-amirasgari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend web developer and programmer.  
+I love working on creative projects and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- Python, HTML, CSS, Git, Linux  
+- Python libraries including Tkinter, OS, Regex, SIS, Requests, Pathlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🐍 [Snake Game with Tkinter](https://github.com/mr-amirasgari/snake-tkinter)  
+- 🎮 [Coin Obstacle Game](https://github.com/mr-amirasgari/coin-obstacle-game)
+
+## Get in Touch
+- 📧 Email: amirasgari2022@gmail.com  
+- 🐦 X: [https://x.com/mr_amirasgari](https://x.com/mr_amirasgari)  
+- 💬 Telegram: [t.me/mr_amirasgari](https://t.me/mr_amirasgari)
