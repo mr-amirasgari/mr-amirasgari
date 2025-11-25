@@ -33,19 +33,6 @@ R: Data manipulation, statistical analysis, visualization
 
 - 🧭 [Pathfinding Project](https://github.com/mr-amirasgari/pathfinding-project)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-amirasgari&show_icons=true&theme=tokyonight)
-
----
-
-## 📅 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-amirasgari&theme=tokyonight)
-
----
 
 ## 📫 Get in Touch
 
