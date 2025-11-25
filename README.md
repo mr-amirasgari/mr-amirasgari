@@ -21,23 +21,17 @@ R: Data manipulation, statistical analysis, visualization
 
 ## 🚀 Projects
 
-- 🐍 Snake Game with Tkinter  
-  https://github.com/mr-amirasgari/snake-tkinter
+- 🐍 [Snake Game with Tkinter](https://github.com/mr-amirasgari/snake-tkinter)
 
-- 🎮 Coin Obstacle Game  
-  https://github.com/mr-amirasgari/coin-obstacle-game
+- 🎮 [Coin Obstacle Game](https://github.com/mr-amirasgari/coin-obstacle-game)
 
-- 🤖 AI Chatbot Directory  
-  https://github.com/mr-amirasgari/ai-chatbot-directory
+- 🤖 [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory)
 
-- 🧬 Diabet ML Project  
-  https://github.com/mr-amirasgari/diabet
+- 🧬 [Diabet ML Project](https://github.com/mr-amirasgari/diabet)
 
-- 🩺 Medical Ruleset Visualization  
-  https://github.com/mr-amirasgari/medical-ruleset-visualizer
+- 🩺 [Medical Ruleset Visualization](https://github.com/mr-amirasgari/medical-ruleset-visualizer)
 
-- 🧭 Pathfinding Project  
-  https://github.com/mr-amirasgari/pathfinding-project
+- 🧭 [Pathfinding Project](https://github.com/mr-amirasgari/pathfinding-project)
 
 ---
 
