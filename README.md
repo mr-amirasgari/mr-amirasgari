@@ -14,23 +14,30 @@ I love working on creative projects and learning new technologies. 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-Python libraries: Tkinter, OS, Regex, SIS, Requests, Pathlib
+Python libraries: Tkinter, OS, Regex, SIS, Requests, Pathlib  
+R: Data manipulation, statistical analysis, visualization  
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 
-🐍 Snake Game with Tkinter
+- 🐍 Snake Game with Tkinter  
+  https://github.com/mr-amirasgari/snake-tkinter
 
-🎮 Coin Obstacle Game
+- 🎮 Coin Obstacle Game  
+  https://github.com/mr-amirasgari/coin-obstacle-game
 
-🤖 AI Chatbot Directory
+- 🤖 AI Chatbot Directory  
+  https://github.com/mr-amirasgari/ai-chatbot-directory
 
-🧬 Diabet ML Project
+- 🧬 Diabet ML Project  
+  https://github.com/mr-amirasgari/diabet
 
-🩺 Medical Ruleset Visualization
+- 🩺 Medical Ruleset Visualization  
+  https://github.com/mr-amirasgari/medical-ruleset-visualizer
 
-🧭 Pathfinding Project
+- 🧭 Pathfinding Project  
+  https://github.com/mr-amirasgari/pathfinding-project
 
 ---
 
@@ -49,6 +56,5 @@ Python libraries: Tkinter, OS, Regex, SIS, Requests, Pathlib
 ## 📫 Get in Touch
 
 - 📧 Email: amirasgari2022@gmail.com  
-- 🐦 X: [https://x.com/mr_amirasgari](https://x.com/mr_amirasgari)  
-- 💬 Telegram: [t.me/mr_amirasgari](https://t.me/mr_amirasgari)
-
+- 🐦 X: https://x.com/mr_amirasgari  
+- 💬 Telegram: https://t.me/mr_amirasgari
