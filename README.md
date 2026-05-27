@@ -1,41 +1,63 @@
+<div align="center">
+
 # 👋 Hi, I'm Amir Mohammad Asgari
 
-I'm a backend web developer and programmer.  
-I love working on creative projects and learning new technologies. 🚀
+### Python Developer | Django Backend Developer | Data Science Enthusiast
+
+I’m a Python developer focused on building backend platforms with **Django**.  
+I’m currently expanding my skills in **Data Science**, **Machine Learning**, and automation with **n8n**.
+
+I enjoy building clean, useful, and scalable projects. 🚀
+
+</div>
 
 ---
 
-## 💻 Skills
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🐍 Python developer
+- 🌐 Building backend platforms with Django
+- 📊 Learning and working in Data Science
+- 🤖 Interested in Machine Learning and automation
+- 🚀 Always building, learning, and improving
 
-Python libraries: Tkinter, OS, Regex, SIS, Requests, Pathlib  
-R: Data manipulation, statistical analysis, visualization  
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
 - 🐍 [Snake Game with Tkinter](https://github.com/mr-amirasgari/snake-tkinter)
-
 - 🎮 [Coin Obstacle Game](https://github.com/mr-amirasgari/coin-obstacle-game)
-
 - 🤖 [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory)
-
-- 🧬 [Diabet ML Project](https://github.com/mr-amirasgari/diabet)
-
+- 🧬 [Diabetes ML Project](https://github.com/mr-amirasgari/diabet)
 - 🩺 [Medical Ruleset Visualization](https://github.com/mr-amirasgari/medical-ruleset-visualizer)
-
 - 🧭 [Pathfinding Project](https://github.com/mr-amirasgari/pathfinding-project)
 
+---
 
-## 📫 Get in Touch
+## 📌 Current Focus
 
-- 📧 Email: amirasgari2022@gmail.com  
-- 🐦 X: https://x.com/mr_amirasgari  
-- 💬 Telegram: https://t.me/mr_amirasgari
+```python
+amir = {
+    "role": "Python Developer",
+    "backend": "Django",
+    "field": "Data Science",
+    "learning": ["Machine Learning", "Automation", "n8n"],
+    "goal": "Build useful and scalable software"
+}
