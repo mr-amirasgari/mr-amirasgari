@@ -42,8 +42,7 @@ Currently, I’m expanding my path into **Data Science**, **Machine Learning**, 
 
 ## 🚀 Projects
 
-- 🐍 [Snake Game with Tkinter](https://github.com/mr-amirasgari/snake-tkinter)
-- 🎮 [Coin Obstacle Game](https://github.com/mr-amirasgari/coin-obstacle-game)
+
 - 🤖 [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory)
 - 🧬 [Diabetes ML Project](https://github.com/mr-amirasgari/diabet)
 - 🩺 [Medical Ruleset Visualization](https://github.com/mr-amirasgari/medical-ruleset-visualizer)
