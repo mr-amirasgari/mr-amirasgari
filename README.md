@@ -26,14 +26,14 @@ Currently, I’m expanding my path into **Data Science**, **Machine Learning**, 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <kbd>Python</kbd>
+  <kbd>Django</kbd>
+  <kbd>NumPy</kbd>
+  <kbd>Pandas</kbd>
+  <kbd>Scikit-learn</kbd>
+  <kbd>n8n</kbd>
+  <kbd>Git</kbd>
+  <kbd>Linux</kbd>
 </p>
 
 ---
@@ -66,18 +66,13 @@ amir = {
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:amirasgari2022@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-amirasgari2022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://x.com/mr_amirasgari">
-    <img alt="X" src="https://img.shields.io/badge/X-mr__amirasgari-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://t.me/mr_amirasgari">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-mr__amirasgari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://youtube.com/@mr_amirasgari">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-mr__amirasgari-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
+  <a href="mailto:amirasgari2022@gmail.com">Email</a>
+  ·
+  <a href="https://x.com/mr_amirasgari">X</a>
+  ·
+  <a href="https://t.me/mr_amirasgari">Telegram</a>
+  ·
+  <a href="https://youtube.com/@mr_amirasgari">YouTube</a>
 </p>
 
 ---
