@@ -4,10 +4,10 @@
 
 ### Python Developer | Django Backend Developer | Data Science Enthusiast
 
-I’m a Python developer focused on building backend platforms with **Django**.  
-I’m currently expanding my skills in **Data Science**, **Machine Learning**, and automation with **n8n**.
+I build backend platforms with **Python** and **Django**.  
+Currently, I’m expanding my path into **Data Science**, **Machine Learning**, and automation with **n8n**.
 
-I enjoy building clean, useful, and scalable projects. 🚀
+🚀 Always learning, building, and improving.
 
 </div>
 
@@ -15,11 +15,11 @@ I enjoy building clean, useful, and scalable projects. 🚀
 
 ## 🧠 About Me
 
-- 🐍 Python developer
-- 🌐 Building backend platforms with Django
-- 📊 Learning and working in Data Science
+- 🐍 Python developer focused on backend development
+- 🌐 Building web platforms with Django
+- 📊 Working and learning in Data Science
 - 🤖 Interested in Machine Learning and automation
-- 🚀 Always building, learning, and improving
+- ⚙️ Passionate about clean, useful, and scalable software
 
 ---
 
@@ -27,20 +27,23 @@ I enjoy building clean, useful, and scalable projects. 🚀
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
 ---
 
 ## 🚀 Projects
+
+- 🐍 [Snake Game with Tkinter](https://github.com/mr-amirasgari/snake-tkinter)
+- 🎮 [Coin Obstacle Game](https://github.com/mr-amirasgari/coin-obstacle-game)
 - 🤖 [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory)
 - 🧬 [Diabetes ML Project](https://github.com/mr-amirasgari/diabet)
 - 🩺 [Medical Ruleset Visualization](https://github.com/mr-amirasgari/medical-ruleset-visualizer)
@@ -58,3 +61,8 @@ amir = {
     "learning": ["Machine Learning", "Automation", "n8n"],
     "goal": "Build useful and scalable software"
 }
+📫 Contact Me
+<div align="center"> <a href="mailto:amirasgari2022@gmail.com"> <img src="https://img.shields.io/badge/Email-amirasgari2022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://x.com/mr_amirasgari"> <img src="https://img.shields.io/badge/X-mr__amirasgari-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://t.me/mr_amirasgari"> <img src="https://img.shields.io/badge/Telegram-mr__amirasgari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://youtube.com/@mr_amirasgari"> <img src="https://img.shields.io/badge/YouTube-mr__amirasgari-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </div>
+<div align="center">
+Thanks for visiting my GitHub profile! 🚀
+</div> ```
