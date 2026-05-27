@@ -25,16 +25,18 @@ Currently, I’m expanding my path into **Data Science**, **Machine Learning**, 
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <kbd>Python</kbd>
-  <kbd>Django</kbd>
-  <kbd>NumPy</kbd>
-  <kbd>Pandas</kbd>
-  <kbd>Scikit-learn</kbd>
-  <kbd>n8n</kbd>
-  <kbd>Git</kbd>
-  <kbd>Linux</kbd>
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -65,15 +67,14 @@ amir = {
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:amirasgari2022@gmail.com">Email</a>
-  ·
-  <a href="https://x.com/mr_amirasgari">X</a>
-  ·
-  <a href="https://t.me/mr_amirasgari">Telegram</a>
-  ·
-  <a href="https://youtube.com/@mr_amirasgari">YouTube</a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-amirasgari2022%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirasgari2022@gmail.com)
+[![X](https://img.shields.io/badge/X-mr__amirasgari-000000?style=flat&logo=x&logoColor=white)](https://x.com/mr_amirasgari)
+[![Telegram](https://img.shields.io/badge/Telegram-mr__amirasgari-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mr_amirasgari)
+[![YouTube](https://img.shields.io/badge/YouTube-mr__amirasgari-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@mr_amirasgari)
+
+</div>
 
 ---
 
