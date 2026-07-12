@@ -99,6 +99,6 @@ amir = {
 
 <div align="center">
 
-### Thanks for visiting my GitHub profile! 🚀
+### Thanks for visiting my GitHub profile! 
 
 </div>
