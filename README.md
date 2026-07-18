@@ -8,9 +8,10 @@
 
 ### Data Scientist | Python Developer | Django Backend Developer
 
-I build backend platforms with Python and Django, and I’m focused on Data Science, Machine Learning, and practical AI projects.
+I build practical, data-driven software with Python and Django, with a growing focus on Data Science, Machine Learning, automation, and applied AI.
 
 - 🌐 Website: [am-asgari.ir](https://www.am-asgari.ir/)
+- 💼 LinkedIn: [linkedin.com/in/amirmohammadasgari](https://www.linkedin.com/in/amirmohammadasgari/)
 - 💻 GitHub: [github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - 📺 YouTube: [youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
 - 𝕏 X: [x.com/mr_amirasgari](https://x.com/mr_amirasgari)
@@ -20,13 +21,13 @@ I build backend platforms with Python and Django, and I’m focused on Data Scie
 
 ## About Me
 
-- Data Scientist focused on practical AI and machine learning projects
-- Python developer with backend development experience
-- Building web platforms with Django
-- Interested in Machine Learning, automation, and n8n
-- Passionate about clean, useful, and scalable software
+- Data Scientist focused on practical machine-learning and AI projects
+- Python developer with experience in backend development
+- Building web platforms and APIs with Django
+- Interested in automation, data analysis, and n8n workflows
+- Focused on clean, maintainable, and useful software
 
-من امیرمحمد عسگری هستم و این GitHub بخشی از هویت رسمی آنلاین من است.  
+من امیرمحمد عسگری هستم و این GitHub بخشی از هویت حرفه‌ای و رسمی آنلاین من است.  
 سایت شخصی من: [am-asgari.ir](https://www.am-asgari.ir/)
 
 ---
@@ -47,10 +48,12 @@ I build backend platforms with Python and Django, and I’m focused on Data Scie
 
 ## Featured Projects
 
-- [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory)
-- [Diabetes ML Project](https://github.com/mr-amirasgari/diabet)
-- [Medical Ruleset Visualization](https://github.com/mr-amirasgari/medical-ruleset-visualizer)
-- [Pathfinding Project](https://github.com/mr-amirasgari/pathfinding-project)
+- [AI Chatbot Directory](https://github.com/mr-amirasgari/ai-chatbot-directory) — Curated directory of AI chatbot tools
+- [LinkedIn AI Poster](https://github.com/mr-amirasgari/linkedin-ai-poster) — Bilingual AI-assisted LinkedIn content generator
+- [Mobile Price Classification](https://github.com/mr-amirasgari/mobile-price-classification) — Machine-learning classification project using Python and RapidMiner
+- [Medical Ruleset Visualizer](https://github.com/mr-amirasgari/medical-ruleset-visualizer) — Educational visualization of a medical ruleset
+- [Diabetes Rule Visualizer](https://github.com/mr-amirasgari/diabetes-rule-visualizer) — Interactive rule-based diabetes visualization
+- [Pathfinding Project](https://github.com/mr-amirasgari/pathfinding-project) — Breadth-First Search pathfinding visualizer
 
 ---
 
@@ -60,12 +63,12 @@ I build backend platforms with Python and Django, and I’m focused on Data Scie
 amir = {
     "name": "Amir Mohammad Asgari",
     "role": "Data Scientist",
-    "backend": "Python / Django",
-    "field": "Data Science and Machine Learning",
-    "learning": ["Machine Learning", "Automation", "n8n"],
+    "backend": ["Python", "Django", "REST APIs"],
+    "data": ["Pandas", "NumPy", "Scikit-learn", "SQL"],
+    "interests": ["Machine Learning", "Applied AI", "Automation", "n8n"],
     "website": "https://www.am-asgari.ir/",
     "github": "https://github.com/mr-amirasgari",
-    "goal": "Build useful, scalable, and data-driven software"
+    "goal": "Build useful, scalable, and data-driven software",
 }
 ```
 
@@ -74,6 +77,7 @@ amir = {
 ## Contact Me
 
 - Website: [https://www.am-asgari.ir/](https://www.am-asgari.ir/)
+- LinkedIn: [https://www.linkedin.com/in/amirmohammadasgari/](https://www.linkedin.com/in/amirmohammadasgari/)
 - GitHub: [https://github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - YouTube: [https://youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
 - X: [https://x.com/mr_amirasgari](https://x.com/mr_amirasgari)
