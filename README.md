@@ -14,7 +14,7 @@ I build practical, data-driven software with Python, with a focus on Data Scienc
 - 💼 LinkedIn: [linkedin.com/in/amirmohammadasgari](https://www.linkedin.com/in/amirmohammadasgari/)
 - 💻 GitHub: [github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - 📺 YouTube: [youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
-- 𝕏 X: [x.com/mr_amirasgari](https://x.com/mr_amirasgari)
+-  𝕏 X: [x.com/mr_amirasgari](https://x.com/mr_amirasgari)
 - ✈️ Telegram: [t.me/python3_lab](https://t.me/python3_lab)
 ---
 
