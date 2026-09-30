@@ -15,8 +15,7 @@ I build practical, data-driven software with Python, with a focus on Data Scienc
 - 💻 GitHub: [github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - 📺 YouTube: [youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
 - 𝕏 X: [x.com/mr_amirasgari](https://x.com/mr_amirasgari)
-- ✈️ Telegram: [t.me/mr_amirasgari]([https://t.me/mr_amirasgari](https://t.me/python3_lab))
-
+- ✈️ Telegram: [t.me/python3_lab](https://t.me/python3_lab)
 ---
 
 ## About Me
@@ -79,7 +78,7 @@ amir = {
 - GitHub: [https://github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - YouTube: [https://youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
 - X: [https://x.com/mr_amirasgari](https://x.com/mr_amirasgari)
-- Telegram: [https://t.me/mr_amirasgari](https://t.me/mr_amirasgari)
+- Telegram: [t.me/python3_lab](https://t.me/python3_lab)
 
 ---
 
