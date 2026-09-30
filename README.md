@@ -6,26 +6,26 @@
 
 # Hi, I'm Amir Mohammad Asgari | امیرمحمد عسگری
 
-### Data Scientist | Python Developer | Django Backend Developer
+### Data Scientist | Machine Learning | Data Analysis | Python
 
-I build practical, data-driven software with Python and Django, with a growing focus on Data Science, Machine Learning, automation, and applied AI.
+I build practical, data-driven software with Python, with a focus on Data Science, Machine Learning, data analysis, automation, and applied AI.
 
 - 🌐 Website: [am-asgari.ir](https://www.am-asgari.ir/)
 - 💼 LinkedIn: [linkedin.com/in/amirmohammadasgari](https://www.linkedin.com/in/amirmohammadasgari/)
 - 💻 GitHub: [github.com/mr-amirasgari](https://github.com/mr-amirasgari)
 - 📺 YouTube: [youtube.com/@mr_amirasgari](https://youtube.com/@mr_amirasgari)
 - 𝕏 X: [x.com/mr_amirasgari](https://x.com/mr_amirasgari)
-- ✈️ Telegram: [t.me/mr_amirasgari](https://t.me/mr_amirasgari)
+- ✈️ Telegram: [t.me/mr_amirasgari]([https://t.me/mr_amirasgari](https://t.me/python3_lab))
 
 ---
 
 ## About Me
 
-- Data Scientist focused on practical machine-learning and AI projects
+- Data Scientist focused on practical data analysis, machine learning, and applied AI projects
 - Python developer with experience in backend development
-- Building web platforms and APIs with Django
-- Interested in automation, data analysis, and n8n workflows
-- Focused on clean, maintainable, and useful software
+- Building data-driven platforms and APIs with Django
+- Interested in statistics, data analysis, machine learning, automation, and n8n workflows
+- Focused on turning data into useful, practical, and maintainable solutions
 
 من امیرمحمد عسگری هستم و این GitHub بخشی از هویت حرفه‌ای و رسمی آنلاین من است.  
 سایت شخصی من: [am-asgari.ir](https://www.am-asgari.ir/)
@@ -63,16 +63,14 @@ I build practical, data-driven software with Python and Django, with a growing f
 amir = {
     "name": "Amir Mohammad Asgari",
     "role": "Data Scientist",
-    "backend": ["Python", "Django", "REST APIs"],
     "data": ["Pandas", "NumPy", "Scikit-learn", "SQL"],
+    "machine_learning": ["Scikit-learn", "Statistics", "Data Analysis"],
+    "backend": ["Python", "Django", "REST APIs"],
     "interests": ["Machine Learning", "Applied AI", "Automation", "n8n"],
     "website": "https://www.am-asgari.ir/",
     "github": "https://github.com/mr-amirasgari",
-    "goal": "Build useful, scalable, and data-driven software",
+    "goal": "Build useful, scalable, and data-driven solutions",
 }
-```
-
----
 
 ## Contact Me
 
